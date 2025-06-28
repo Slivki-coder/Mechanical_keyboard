@@ -12,3 +12,11 @@ I watched and read a few tutorials on how to design a keyboard before beginning 
 
 
 **Total time spent: 5h**
+# June 27th: Finished wiring the PCB
+
+I wired all the switches on my PCB to my controller
+
+![image](https://github.com/user-attachments/assets/ae7b270b-8baa-46b2-9920-89d8375cc2eb)
+
+
+**Total time spent: 8h**
