@@ -20,3 +20,12 @@ I wired all the switches on my PCB to my controller
 
 
 **Total time spent: 8h**
+# June 29th: Redesigned everything because the pcb was too messy
+
+My previous attempt required 4 layers, had traces going everywhere and like 5 vias per trace. Because of that, I decided to redesign my schematic (this time keeping the final layout in mind) and then also completely redo the PCB. Now I only need 2 layers, 0 vias and the traces are pretty organised.
+
+![image](https://github.com/user-attachments/assets/15dacf79-3c77-4327-bccd-7a6096c74d43)
+![image](https://github.com/user-attachments/assets/a26a1317-221c-4617-982f-90fe2be8e7df)
+
+
+**Total time spent: 6h**
