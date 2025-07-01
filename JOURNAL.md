@@ -29,3 +29,22 @@ My previous attempt required 4 layers, had traces going everywhere and like 5 vi
 
 
 **Total time spent: 6h**
+# June 30th: Started working on the 3d model
+
+I started working on the case for the keyboard. I finished the top plate and also started working on the main casing. (The screenshots were made on a later date since I forgot to take them at that time, so some changes may be present which I added a day later)
+
+![image](https://github.com/user-attachments/assets/7fbc516b-95d8-4e0a-949b-a8cc65879764)
+![image](https://github.com/user-attachments/assets/09f69211-475a-43dc-95ab-3a8dfa7a52f0)
+
+
+**Total time spent: 8h**
+# July 1st: Finished 3d modeling and created the firmware
+
+I finished the 3d model of the case and added a stand to add a 6 degree slope to it. I also added small holes on the bottom of the case and the stand for magnets which are supposed to hold the 2 parts together, and slightly larger holes on the bottom of the stand to add silicone pads to stop it from sliding across the table.
+
+![image](https://github.com/user-attachments/assets/144e8a5c-622e-4111-80e0-e683fd8c387d)
+![image](https://github.com/user-attachments/assets/7635cb1c-831a-4457-ac45-62846b0589ac)
+![image](https://github.com/user-attachments/assets/b0f255fa-f408-4e50-9c0a-fce6ad88e442)
+
+
+**Total time spent: 6h**
