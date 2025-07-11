@@ -21,15 +21,15 @@ The Firmware was created in python using the kmk library. It requires Circuitpyt
 
 ## BOM
 
-| Item           | Amount         | Total Price    |
-|----------------|----------------|----------------|
-| Neodymium Magnet 5x2mm  | 18  | 8€  |
-| Rubber Pad 10mm | 2  | 4€  |
-| M2.5x10 screw  | 7  | 11€  |
-| Cherry MX switches | 92 | 75€ |
-| Keycaps | 92 | 30€ |
-| PCB | 1 | / |
-| Raspberry Pi Pico | 1 | 10€ |
-| 3d Printing Filament (any) | 1 spool | ~20€ |
+| Item           | Amount         | Total Price    | Required |
+|----------------|----------------|----------------|----------|
+| Neodymium Magnet 5x2mm  | 18  | 8€  | Yes |
+| Rubber Pad 10mm | 2  | 4€  | Yes |
+| M2.5x10 screw  | 7  | 11€  | Yes |
+| Cherry MX switches | 92 | 75€ | Yes |
+| Keycaps | 92 | 30€ | Yes |
+| PCB | 1 | / | Yes |
+| Raspberry Pi Pico | 1 | 10€ | Yes |
+| 3d Printing Filament (any) | 1 spool | ~20€ | No |
 | **Total** | | 158€ |
 
