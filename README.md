@@ -9,6 +9,8 @@ I modeled all parts in Fusion 360. The case consists of 3 parts: The casing itse
 ![image](https://github.com/user-attachments/assets/2ce50790-c19f-4358-8761-7eab7cb244d8)
 ![image](https://github.com/user-attachments/assets/09a9d537-92cf-46b1-8555-03698aa71d8b)
 ![image](https://github.com/user-attachments/assets/6e9b3dd4-8d5f-457d-ae6b-6236d928ff65)
+<img width="2559" height="1376" alt="image" src="https://github.com/user-attachments/assets/96666b45-c04c-4107-9787-60cabb741a5e" />
+
 
 ## PCB
 The PCB & schematic was designed in KiCAD. The schematic is a bit confusing because some keys from col13 are shfted up one row.
