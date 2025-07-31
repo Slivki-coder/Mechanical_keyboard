@@ -49,3 +49,12 @@ I finished the 3d model of the case and added a stand to add a 6 degree slope to
 
 
 **Total time spent: 6h**
+# July 29th-31st: Added a logo and Name
+
+I created an SVG logo and added it to the bottom of the stand, and also added my nickname (slivki) to the side of the main body. I then spnet a lot of time making sure the logo is printable (due to the overhandds created when printing vertically) which turned out to take much more time than expected
+
+<img width="1461" height="934" alt="image" src="https://github.com/user-attachments/assets/7462e68e-8542-4ea8-bb26-374489a49eec" />
+<img width="857" height="372" alt="image" src="https://github.com/user-attachments/assets/62255da1-59df-4f18-8f9e-59e272d52561" />
+
+
+**Total time spent: 6h**
