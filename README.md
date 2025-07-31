@@ -10,6 +10,9 @@ I modeled all parts in Fusion 360. The case consists of 3 parts: The casing itse
 ![image](https://github.com/user-attachments/assets/09a9d537-92cf-46b1-8555-03698aa71d8b)
 ![image](https://github.com/user-attachments/assets/6e9b3dd4-8d5f-457d-ae6b-6236d928ff65)
 <img width="2559" height="1376" alt="image" src="https://github.com/user-attachments/assets/96666b45-c04c-4107-9787-60cabb741a5e" />
+<img width="857" height="372" alt="image" src="https://github.com/user-attachments/assets/37c642e8-4815-4fff-9a77-25fb67aa9f9e" />
+<img width="2559" height="1346" alt="image" src="https://github.com/user-attachments/assets/1b6c2662-7d80-4a21-a1c6-99a88217f689" />
+
 
 
 ## PCB
