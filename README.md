@@ -2,6 +2,8 @@
 
 This is a Mechanical keyboard which I designed for highway, an event by hackclub. It includes a standard 80% layout as well as 5 macro keys on the left.
 
+![WhatsApp Bild 2025-08-21 um 10 07 07_0b671c8c](https://github.com/user-attachments/assets/b1b18930-5b7b-4ca9-ae9e-b7d459d31c8b)
+
 ## CAD
 I modeled all parts in Fusion 360. The case consists of 3 parts: The casing itself, a top plate for the switches and stabilizers and a stand to add a bit of incline to the keyboard. The stand and case each require 9 5x2mm magnets, which are used to attach the stand to the main body. It is also possible to add silicone feet to the stand to prevent it from sliding across the table. The top plate is fixed to the body with 7 M2.5x10 screws.
 
