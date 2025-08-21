@@ -58,3 +58,30 @@ I created an SVG logo and added it to the bottom of the stand, and also added my
 
 
 **Total time spent: 6h**
+# August 18th: Started building the keyboard
+
+I 3d printed all the files, and once the parts arrived from amazon, I started roughly assembling the keyboard
+
+![WhatsApp Bild 2025-08-21 um 10 11 58_63fd9120](https://github.com/user-attachments/assets/d2fbf805-d2ec-4759-af5c-c943accb1ff1)
+![WhatsApp Bild 2025-08-21 um 10 11 58_f0bbc097](https://github.com/user-attachments/assets/5d8d2d68-6b14-44e2-870e-91c2ca67a8a3)
+![WhatsApp Bild 2025-08-21 um 10 11 58_a23e7fb0](https://github.com/user-attachments/assets/c14e0b58-0e15-4843-961d-47d5f3076a6b)
+
+
+**Total time spent: 5h**
+# August 19th: assembled the keyboard with the parts I already had, reprinted some parts
+
+I connected the 2 parts of the main body of the keyboard, spray painted some screws to be less visible, and assembled the keyboard, but without the pcb since I did not have it yet.
+
+![WhatsApp Bild 2025-08-21 um 10 11 58_49705b1e](https://github.com/user-attachments/assets/a8754c38-d13d-4b4d-a83a-eb0c1d8b68db)
+
+
+**Total time spent: 4h**
+# August 20th: assembled the pcb, uploaded firmware, etc. (finished project)
+
+I finally received the pcb and soldered all components to it, uploaded the firmware to rpi pico, the did some minor debugging of both the hardware and the software
+
+<img width="584" height="1600" alt="image" src="https://github.com/user-attachments/assets/2f45cd8c-872b-46ff-9901-4b973a48cadc" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/0aad1a87-9162-4216-a633-b251b8ad6ed9" />
+
+**Total time spent: 7h**
+
